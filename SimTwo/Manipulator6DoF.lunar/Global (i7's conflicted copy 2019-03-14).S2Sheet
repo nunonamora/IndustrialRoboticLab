@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<sheet>
+  <columns>
+    <defaultcol width="50" />
+    <col num="1" width="82" />
+    <col num="2" width="90" />
+    <col num="3" width="97" />
+    <col num="4" width="54" />
+    <col num="5" width="47" />
+    <col num="6" width="46" />
+    <col num="7" width="32" />
+    <col num="8" width="56" />
+    <col num="9" width="54" />
+  </columns>
+  <cells>
+    <cell r="2" c="2" text="Pos (deg)" />
+    <cell r="3" c="2" text="0.000082" />
+    <cell r="4" c="2" text="0.168" />
+    <cell r="5" c="2" text="0.0688" />
+    <cell r="6" c="2" text="0" />
+    <cell r="7" c="2" text="-9.34E-7" />
+    <cell r="8" c="2" text="0" />
+    <cell r="2" c="1" text="Joint" />
+    <cell r="4" c="1" text="1" />
+    <cell r="3" c="1" text="0" />
+    <cell r="5" c="1" text="2" />
+    <cell r="6" c="1" text="3" />
+    <cell r="7" c="1" text="4" />
+    <cell r="8" c="1" text="5" />
+    <cell r="13" c="2" text="0.5472888" />
+    <cell r="11" c="1" text="X:" />
+    <cell r="12" c="1" text="Y:" />
+    <cell r="13" c="1" text="Z:" />
+    <cell r="11" c="2" text="0.7699949" />
+    <cell r="12" c="2" text="1.843158E-9" />
+    <cell r="10" c="2" text="B5" />
+    <cell r="15" c="2" text="B6" />
+    <cell r="16" c="2" text="0.8049946" />
+    <cell r="17" c="2" text="1.8236E-9" />
+    <cell r="18" c="2" text="0.5471435" />
+    <cell r="16" c="4" text="1.000" />
+    <cell r="16" c="5" text="0.000" />
+    <cell r="16" c="6" text="0.004" />
+    <cell r="17" c="4" text="0.000" />
+    <cell r="17" c="5" text="1.000" />
+    <cell r="17" c="6" text="0.000" />
+    <cell r="18" c="4" text="-0.004" />
+    <cell r="18" c="5" text="0.000" />
+    <cell r="18" c="6" text="1.000" />
+    <cell r="16" c="8" text="1.000" />
+    <cell r="16" c="9" text="0.000" />
+    <cell r="16" c="10" text="0.000" />
+    <cell r="17" c="8" text="0.000" />
+    <cell r="17" c="9" text="1.000" />
+    <cell r="17" c="10" text="0.000" />
+    <cell r="18" c="8" text="0.000" />
+    <cell r="18" c="9" text="0.000" />
+    <cell r="18" c="10" text="1.000" />
+  </cells>
+</sheet>
